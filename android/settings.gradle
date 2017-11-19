@@ -1,0 +1,3 @@
+rootProject.name = 'Van_News'
+
+include ':app'
