@@ -1,9 +1,6 @@
-# Van_News
 
-> by Zip, Lan 2017.11.19
+> Van_news 2017.12.10
 
 ---
 
-Hello world!
-
-This is an React-Native project for BUCT students' final project.
+* If you use Windows, you can call open the 'initRN.bat' to install packages we need quickly.
